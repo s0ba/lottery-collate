@@ -1,0 +1,17 @@
+{
+  "name": "lottery-collatz",
+  "version": "0.0.1",
+  "description": "Generate Lottery Numbers using Collatz function.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "csv": "^1.1.0",
+    "fs": "0.0.2",
+    "minimist": "^1.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
