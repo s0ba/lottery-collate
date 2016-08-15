@@ -6,6 +6,7 @@
   "dependencies": {},
   "devDependencies": {
     "csv": "^1.1.0",
+    "csv-parser": "^1.9.3",
     "fs": "0.0.2",
     "minimist": "^1.2.0"
   },
